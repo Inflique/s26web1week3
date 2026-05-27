@@ -1,3 +1,14 @@
 body{
     background-color:#9f0000;
 }
+@font-face {
+    font-family: 'Relationship of Melodrame';
+    src: url('fonts/relationship-of-melodrame.ttf') format('truetype');
+}
+header{
+    color:#ffffdd;
+    font-family: 'Relationship of Melodrame';
+}
+main{
+    color:#ffffdd;
+}
