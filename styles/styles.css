@@ -6,9 +6,13 @@ body{
     src: url('fonts/relationship-of-melodrame.ttf') format('truetype');
 }
 header{
-    color:#ffffdd;
+    color:#ffffee;
     font-family: 'Relationship of Melodrame';
 }
+h1{
+    font-size: 48px;
+}
 main{
-    color:#ffffdd;
+    color:#ffffee;
+    font-family:Arial, Helvetica, sans-serif;
 }
